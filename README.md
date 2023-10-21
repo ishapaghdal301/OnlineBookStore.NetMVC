@@ -22,7 +22,7 @@ To run this project locally, follow these instructions.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Het0207/Bulky.git
+   git clone https://github.com/ishapaghdal301/OnlineBookStore.NetMVC.git
 2. Change into the project directory
    ```bash
    cd OnlineBookStore.NetMVC
