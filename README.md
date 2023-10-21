@@ -1,4 +1,4 @@
-# Bulky
+# OnlineBookStore.NetMVC
 
 This is an online Book shop project developed by Isha Paghdal & Het Panchal. The project aims to create a web-based platform for purchasing and managing Books.
 
@@ -25,7 +25,7 @@ To run this project locally, follow these instructions.
    git clone https://github.com/Het0207/Bulky.git
 2. Change into the project directory
    ```bash
-   cd Bulky
+   cd OnlineBookStore.NetMVC
 
 3. Go to tools->nuget package manager console
 4. Update the database by running the command update-database
