@@ -1,32 +1,43 @@
-# OnlineBookStore.NetMVC
 
-This is an online Book shop project developed by Isha Paghdal & Het Panchal. The project aims to create a web-based platform for purchasing and managing Books.
+## BulkyBook 
+#### Your Gateway to a World of Books 
 
-## Features
+Bulky Book is an online bookshop project developed by Isha Paghdal and Het Panchal. Our goal is to provide a comprehensive web-based platform for purchasing and managing books.
 
-The purpose of this project is to create an online platform where users can browse and purchase a wide range of Books and admin can manage the Books and their Category.
 
-## Technologies Used
+### Tools, Technology, and Platform Used 🛠️
 
-Asp .net Core MVC
+- Asp .NET Core MVC 🌐 
 
-## Getting Started
+### Getting Started 🚀
+#### Prerequisites 📋
+- .NET 8 🛠️
+- Visual Studio Preview 💻
 
-To run this project locally, follow these instructions.
 
-### Prerequisites
+## Installation
 
-.net 8 , Visual Studio Preview
+1. Clone the Repository 
 
-### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ishapaghdal301/OnlineBookStore.NetMVC.git
-2. Change into the project directory
-   ```bash
-   cd OnlineBookStore.NetMVC
+```bash
+  git clone https://github.com/ishapaghdal301/OnlineBookStore.NetMVC.git
+  cd OnlineBookStore.NetMVC
+```
 
-3. Go to tools->nuget package manager console
-4. Update the database by running the command update-database
-5. run the project with/without debugging.
+2. Database Setup  
+- Open Visual Studio.
+- Go to Tools -> NuGet Package Manager -> Package Manager Console.
+- Update the database by running the command:
+```bash
+update-database
+```
+
+3. Run the Project ▶️
+
+- Run the project with or without debugging through Visual Studio.
+
+## Contact 📧
+- ishapaghdal@gmail.com
+- https://github.com/ishapaghdal301
+
